@@ -33,7 +33,7 @@ public class MyLoggingSentEventNotifer extends EventNotifierSupport {
             // calculate elapsed time
             Date now = new Date();
             long elapsed = now.getTime() - created.getTime();
-            logger.info(">>> created.getTime() " + created.getTime());
+            logger.info(">>>  created.getTime() " + created.getTime());
             logger.info(">>> Took " + elapsed + " millis for the exchange on the route : " + routeId);
         }
 
