@@ -35,7 +35,7 @@ public class Samplee {
         for (URL url : urls) {
             System.out.println(url.getFile());
         }
-        System.out.println("-----------------");
+        System.out.println("-------dfdf----------");
         System.out.println(new File(".").getAbsolutePath());
 System.out.println(new File("log4j.properties").getAbsolutePath());
 
