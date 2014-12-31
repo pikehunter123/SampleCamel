@@ -1,4 +1,0 @@
-SampleCamel
-===========
-
-SampleCamel
